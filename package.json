@@ -1,0 +1,19 @@
+{
+  "name": "rpg-cms",
+  "version": "0.0.0",
+  "description": "Simple CMS for RPG entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RPG",
+    "CMS"
+  ],
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/ZKFrontMan/rpg-cms"
+  },
+  "author": "Stephen Ward",
+  "license": "MIT"
+}
